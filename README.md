@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @adityapatil010
-- 👀 I’m interested in Programming and volleyball 
+- 👀 I’m interested in Programming
 - 🌱 I’m currently learning coding
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
